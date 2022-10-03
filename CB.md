@@ -32,5 +32,6 @@ To get approval of the pull request much quick 🚀
 ```
 
 <tr><td align="center"><a href="https://github.com/H9660"><kbd><img src="https://avatars3.githubusercontent.com/H9660?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Hussain Lohawala <Lohawala></Lohawala></b></sub></a><br /></td>
-
+    
+<tr><td align="center"><a href="https://github.com/karanS08"><kbd><img src="https://avatars3.githubusercontent.com/karanS08?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Karan Sharma </b></sub></a><br /></td>
 </tr>
