@@ -1,7 +1,7 @@
 
 | Name               | GitHub Link                     | Place
 | ------------------ | ------------------------------- |-------------
-| HUSSAIN LOHAWALA   | https://github.com/H9660        | Chandigarh
+| ANKUSH GOEL   | https://github.com/ankush-goel        | Chandigarh
 | KUNAL CHAUHAN      | https://github.com/Kunal-Chauhan7 | Bhiwani
 | VISHESH DVIVEDI    | https://github.com/visheshdvivedi | Lucknow
 | KARAN |             https://github.com/karanS08 | Dharamshala
